@@ -1,0 +1,5 @@
+inherit kde4
+
+HOMEPAGE="http://KDE-Apps.org/content/show.php/KDE+PO+Thumbnailer?content=142036"
+SRC_URI="http://KDE-Apps.org/CONTENT/content-files/142036-${P}.tar.bz2"
+SRC_DIR=${PN}

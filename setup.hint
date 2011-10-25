@@ -1,0 +1,5 @@
+category: KDE
+requires: libgcc1 libgettextpo0 libkdecore5 libQtCore4 libQtGui4 libstdc++6
+sdesc: "KDE gettext translation thumbnailer"
+ldesc: "kde-thumbnailer-po is a preview image generator plugin for gnu 
+gettext translation and gettext translation template."
